@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: discord-translation-bot
+Version: 1.0.0
+Summary: Discord bot for instant translation with interactive buttons
+Requires-Python: >=3.10
+Requires-Dist: discord-py>=2.3.0
+Requires-Dist: langdetect>=1.0.9
+Requires-Dist: aiohttp>=3.8.0
